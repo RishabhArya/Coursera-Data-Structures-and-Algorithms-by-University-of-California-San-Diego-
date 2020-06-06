@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/mnt/01D57B8323CF0640/All Projects/#1Major Projects/Coursera-Certifications/Coursera-Data-Structures-and-Algorithms-by-University-of-California-San-Diego-/2.Data Structures/venv/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
