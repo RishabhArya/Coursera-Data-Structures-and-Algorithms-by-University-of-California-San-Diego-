@@ -7,11 +7,11 @@
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
     <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/facerecognition/venv/bin/python" />
-    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1_decomposition1/1_reachability" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1_decomposition1/2_connected_components" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1_decomposition1/2_connected_components/connected_components.py" />
     <option name="PARAMETERS" value="" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />

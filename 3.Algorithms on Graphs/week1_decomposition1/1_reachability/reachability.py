@@ -26,6 +26,5 @@ if __name__ == '__main__':
         # adjacency list
         adj[a - 1].append(b - 1)
         adj[b - 1].append(a - 1)
-    print(adj)
     x, y = map(int, input().split())
     print(reach(adj, x - 1, y - 1))
